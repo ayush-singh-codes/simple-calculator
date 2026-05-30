@@ -14,7 +14,7 @@ Welcome to the **Simple Calculator** — a sleek and colorful calculator designe
 
 ## 🚀 Live Demo
 
-Experience it yourself here: [Live Calculator](https://syntaxxslinger.github.io/simple-calculator/)  
+Experience it yourself here: [Live Calculator](https://ayush-singh-codes.github.io/simple-calculator/)  
 ---
 
 ## 🛠️ Built With
