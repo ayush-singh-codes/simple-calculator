@@ -1,7 +1,7 @@
 # simple-calculator
 Welcome to the **Simple Calculator** — a sleek and colorful calculator designed to make math fun! This project combines smooth animations, vibrant colors, and a user-friendly interface, built with clean and modern web technologies: **HTML**, **CSS**, and **Vanilla JavaScript**.
 
----
+----
 
 ## ✨ Features
 
